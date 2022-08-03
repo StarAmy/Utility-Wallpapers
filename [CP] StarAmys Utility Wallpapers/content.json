@@ -1,0 +1,481 @@
+{
+	"Format": "1.25.0",
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Data/AdditionalWallpaperFlooring",
+			"Entries": {
+				"StarAmy.Bottle_Wall": {
+					"ID": "StarAmy.Bottle_Wall",
+					"Texture": "StarAmy.Bottle_Wall/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Bookshelf_Wall": {
+					"ID": "StarAmy.Bookshelf_Wall",
+					"Texture": "StarAmy.Bookshelf_Wall/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Seedling_Tray_Wall": {
+					"ID": "StarAmy.Seedling_Tray_Wall",
+					"Texture": "StarAmy.Seedling_Tray_Wall/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Cage_Wall": {
+					"ID": "StarAmy.Cage_Wall",
+					"Texture": "StarAmy.Cage_Wall/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Mirror_Wall": {
+					"ID": "StarAmy.Mirror_Wall",
+					"Texture": "StarAmy.Mirror_Wall/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Black_Greenhouse_One": {
+					"ID": "StarAmy.Black_Greenhouse_One",
+					"Texture": "StarAmy.Black_Greenhouse_One/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Black_Greenhouse_Two": {
+					"ID": "StarAmy.Black_Greenhouse_Two",
+					"Texture": "StarAmy.Black_Greenhouse_Two/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.White_Greenhouse_One": {
+					"ID": "StarAmy.White_Greenhouse_One",
+					"Texture": "StarAmy.White_Greenhouse_One/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.White_Greenhouse_Two": {
+					"ID": "StarAmy.White_Greenhouse_Two",
+					"Texture": "StarAmy.White_Greenhouse_Two/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Wooden_Panels": {
+					"ID": "StarAmy.Wooden_Panels",
+					"Texture": "StarAmy.Wooden_Panels/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Red_Wood_Vertical": {
+					"ID": "StarAmy.Red_Wood_Vertical",
+					"Texture": "StarAmy.Red_Wood_Vertical/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+					"StarAmy.Red_Wood_Horizontal": {
+					"ID": "StarAmy.Red_Wood_Horizontal",
+					"Texture": "StarAmy.Red_Wood_Horizontal/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+					"StarAmy.Grey_Wood_Vertical": {
+					"ID": "StarAmy.Grey_Wood_Vertical",
+					"Texture": "StarAmy.Grey_Wood_Vertical/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+					"StarAmy.Grey_Wood_Horizontal": {
+					"ID": "StarAmy.Grey_Wood_Horizontal",
+					"Texture": "StarAmy.Grey_Wood_Horizontal/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+					"StarAmy.Tan_Wood_Vertical": {
+					"ID": "StarAmy.Tan_Wood_Vertical",
+					"Texture": "StarAmy.Tan_Wood_Vertical/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+					"StarAmy.Tan_Wood_Horizontal": {
+					"ID": "StarAmy.Tan_Wood_Horizontal",
+					"Texture": "StarAmy.Tan_Wood_Horizontal/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+					"StarAmy.Dark_Wood_Vertical": {
+					"ID": "StarAmy.Dark_Wood_Vertical",
+					"Texture": "StarAmy.Dark_Wood_Vertical/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+					"StarAmy.Dark_Wood_Horizontal": {
+					"ID": "StarAmy.Dark_Wood_Horizontal",
+					"Texture": "StarAmy.Dark_Wood_Horizontal/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+					"StarAmy.Cream_Wood_Vertical": {
+					"ID": "StarAmy.Cream_Wood_Vertical",
+					"Texture": "StarAmy.Cream_Wood_Vertical/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+					"StarAmy.Cream_Wood_Horizontal": {
+					"ID": "StarAmy.Cream_Wood_Horizontal",
+					"Texture": "StarAmy.Cream_Wood_Horizontal/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+					"StarAmy.Brown_Wood_Vertical": {
+					"ID": "StarAmy.Brown_Wood_Vertical",
+					"Texture": "StarAmy.Brown_Wood_Vertical/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+					"StarAmy.Brown_Wood_Horizontal": {
+					"ID": "StarAmy.Brown_Wood_Horizontal",
+					"Texture": "StarAmy.Brown_Wood_Horizontal/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+			},
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Bottle_Wall/Wallpaper",
+			"FromFile": "assets/Bottle_Wall.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Bottle_Wall/WallpaperIcon",
+			"FromFile": "assets/Bottle_Wall.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Bookshelf_Wall/Wallpaper",
+			"FromFile": "assets/Bookshelf_Wall.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Bookshelf_Wall/WallpaperIcon",
+			"FromFile": "assets/Bookshelf_Wall.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Mirror_Wall/Wallpaper",
+			"FromFile": "assets/Mirror_Wall.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Mirror_Wall/WallpaperIcon",
+			"FromFile": "assets/Mirror_Wall.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Seedling_Tray_Wall/Wallpaper",
+			"FromFile": "assets/Seedling_Tray_Wall.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Seedling_Tray_Wall/WallpaperIcon",
+			"FromFile": "assets/Seedling_Tray_Wall.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Black_Greenhouse_One/Wallpaper",
+			"FromFile": "assets/Black_Greenhouse_One.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Black_Greenhouse_One/WallpaperIcon",
+			"FromFile": "assets/Black_Greenhouse_One.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Black_Greenhouse_Two/Wallpaper",
+			"FromFile": "assets/Black_Greenhouse_Two.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Black_Greenhouse_Two/WallpaperIcon",
+			"FromFile": "assets/Black_Greenhouse_Two.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Greenhouse_One/Wallpaper",
+			"FromFile": "assets/White_Greenhouse_One.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Greenhouse_One/WallpaperIcon",
+			"FromFile": "assets/White_Greenhouse_One.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Greenhouse_Two/Wallpaper",
+			"FromFile": "assets/White_Greenhouse_Two.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Greenhouse_Two/WallpaperIcon",
+			"FromFile": "assets/White_Greenhouse_Two.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Cage_Wall/Wallpaper",
+			"FromFile": "assets/Cage_Wall.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Cage_Wall/WallpaperIcon",
+			"FromFile": "assets/Cage_Wall.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Wooden_Panels/Wallpaper",
+			"FromFile": "assets/Wooden_Panels.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Wooden_Panels/WallpaperIcon",
+			"FromFile": "assets/Wooden_Panels.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Red_Wood_Vertical/Wallpaper",
+			"FromFile": "assets/Red_Wood_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Red_Wood_Vertical/WallpaperIcon",
+			"FromFile": "assets/Red_Wood_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Red_Wood_Horizontal/Wallpaper",
+			"FromFile": "assets/Red_Wood_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Red_Wood_Horizontal/WallpaperIcon",
+			"FromFile": "assets/Red_Wood_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Grey_Wood_Vertical/Wallpaper",
+			"FromFile": "assets/Grey_Wood_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Grey_Wood_Vertical/WallpaperIcon",
+			"FromFile": "assets/Grey_Wood_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Grey_Wood_Horizontal/Wallpaper",
+			"FromFile": "assets/Grey_Wood_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Grey_Wood_Horizontal/WallpaperIcon",
+			"FromFile": "assets/Grey_Wood_Horizontal.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Tan_Wood_Vertical/Wallpaper",
+			"FromFile": "assets/Tan_Wood_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Tan_Wood_Vertical/WallpaperIcon",
+			"FromFile": "assets/Tan_Wood_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Tan_Wood_Horizontal/Wallpaper",
+			"FromFile": "assets/Tan_Wood_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Tan_Wood_Horizontal/WallpaperIcon",
+			"FromFile": "assets/Tan_Wood_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Cream_Wood_Vertical/Wallpaper",
+			"FromFile": "assets/Cream_Wood_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Cream_Wood_Vertical/WallpaperIcon",
+			"FromFile": "assets/Cream_Wood_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Cream_Wood_Horizontal/Wallpaper",
+			"FromFile": "assets/Cream_Wood_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Cream_Wood_Horizontal/WallpaperIcon",
+			"FromFile": "assets/Cream_Wood_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Dark_Wood_Vertical/Wallpaper",
+			"FromFile": "assets/Dark_Wood_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Dark_Wood_Vertical/WallpaperIcon",
+			"FromFile": "assets/Dark_Wood_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Dark_Wood_Horizontal/Wallpaper",
+			"FromFile": "assets/Dark_Wood_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Dark_Wood_Horizontal/WallpaperIcon",
+			"FromFile": "assets/Dark_Wood_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Wood_Vertical/Wallpaper",
+			"FromFile": "assets/Brown_Wood_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Wood_Vertical/WallpaperIcon",
+			"FromFile": "assets/Brown_Wood_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Wood_Horizontal/Wallpaper",
+			"FromFile": "assets/Brown_Wood_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Wood_Horizontal/WallpaperIcon",
+			"FromFile": "assets/Brown_Wood_Horizontal.png"
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.Bottle_Wall": {
+					"id": "StarAmy.Bottle_Wall",
+					"texturePath": "StarAmy.Bottle_Wall/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Bookshelf_Wall": {
+					"id": "StarAmy.Bookshelf_Wall",
+					"texturePath": "StarAmy.Bookshelf_Wall/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Cage_Wall": {
+					"id": "StarAmy.Cage_Wall",
+					"texturePath": "StarAmy.Cage_Wall/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Seedling_Tray_Wall": {
+					"id": "StarAmy.Seedling_Tray_Wall",
+					"texturePath": "StarAmy.Seedling_Tray_Wall/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Mirror_Wall": {
+					"id": "StarAmy.Mirror_Wall",
+					"texturePath": "StarAmy.Mirror_Wall/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Black_Greenhouse_One": {
+					"id": "StarAmy.Black_Greenhouse_One",
+					"texturePath": "StarAmy.Black_Greenhouse_One/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Black_Greenhouse_Two": {
+					"id": "StarAmy.Black_Greenhouse_Two",
+					"texturePath": "StarAmy.Black_Greenhouse_Two/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.White_Greenhouse_One": {
+					"id": "StarAmy.White_Greenhouse_One",
+					"texturePath": "StarAmy.White_Greenhouse_One/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.White_Greenhouse_Two": {
+					"id": "StarAmy.White_Greenhouse_Two",
+					"texturePath": "StarAmy.White_Greenhouse_Two/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Wooden_Panels": {
+					"id": "StarAmy.Wooden_Panels",
+					"texturePath": "StarAmy.Wooden_Panels/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Red_Wood_Vertical": {
+					"id": "StarAmy.Red_Wood_Vertical",
+					"texturePath": "StarAmy.Red_Wood_Vertical/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Red_Wood_Horizontal": {
+					"id": "StarAmy.Red_Wood_Horizontal",
+					"texturePath": "StarAmy.Red_Wood_Horizontal/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Cream_Wood_Vertical": {
+					"id": "StarAmy.Cream_Wood_Vertical",
+					"texturePath": "StarAmy.Cream_Wood_Vertical/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Cream_Wood_Horizontal": {
+					"id": "StarAmy.Cream_Wood_Horizontal",
+					"texturePath": "StarAmy.Cream_Wood_Horizontal/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Dark_Wood_Vertical": {
+					"id": "StarAmy.Dark_Wood_Vertical",
+					"texturePath": "StarAmy.Dark_Wood_Vertical/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Dark_Wood_Horizontal": {
+					"id": "StarAmy.Dark_Wood_Horizontal",
+					"texturePath": "StarAmy.Dark_Wood_Horizontal/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Brown_Wood_Vertical": {
+					"id": "StarAmy.Brown_Wood_Vertical",
+					"texturePath": "StarAmy.Brown_Wood_Vertical/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Brown_Wood_Horizontal": {
+					"id": "StarAmy.Brown_Wood_Horizontal",
+					"texturePath": "StarAmy.Brown_Wood_Horizontal/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Tan_Wood_Vertical": {
+					"id": "StarAmy.Tan_Wood_Vertical",
+					"texturePath": "StarAmy.Tan_Wood_Vertical/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Tan_Wood_Horizontal": {
+					"id": "StarAmy.Tan_Wood_Horizontal",
+					"texturePath": "StarAmy.Tan_Wood_Horizontal/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Grey_Wood_Vertical": {
+					"id": "StarAmy.Grey_Wood_Vertical",
+					"texturePath": "StarAmy.Grey_Wood_Vertical/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Grey_Wood_Horizontal": {
+					"id": "StarAmy.Grey_Wood_Horizontal",
+					"texturePath": "StarAmy.Grey_Wood_Horizontal/Wallpaper",
+					"width": 1,
+				},
+
+			}
+		},
+	]
+}

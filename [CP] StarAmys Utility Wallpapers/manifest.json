@@ -1,0 +1,17 @@
+{
+    "Name": "[CP] StarAmys Utility Wallpapers",
+    "Author": "StarAmy",
+    "Version": "1.0.0",
+    "Description": "Adds a number of new wallpapers and floors via the custom wallpaper framework.",
+    "UniqueID": "StarAmy.UtilityWallpapers",
+    "MinimumApiVersion": "3.13.0",
+    "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    },
+	"Dependencies": [
+		{
+			"UniqueID": "aedenthorn.CustomWallpaperFramework",
+			"IsRequired": true
+		}
+	]
+ }
