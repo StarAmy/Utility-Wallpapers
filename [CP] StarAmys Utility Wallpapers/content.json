@@ -5,6 +5,18 @@
 			"Action": "EditData",
 			"Target": "Data/AdditionalWallpaperFlooring",
 			"Entries": {
+				"StarAmy.Inset_Shelving": {
+					"ID": "StarAmy.Inset_Shelving",
+					"Texture": "StarAmy.Inset_Shelving/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Inset_Shelving_Light": {
+					"ID": "StarAmy.Inset_Shelving_Light",
+					"Texture": "StarAmy.Inset_Shelving_Light/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
 				"StarAmy.Bottle_Wall": {
 					"ID": "StarAmy.Bottle_Wall",
 					"Texture": "StarAmy.Bottle_Wall/WallpaperIcon",
@@ -47,6 +59,12 @@
 					"IsFlooring": false,
 					"Count": 1
 				},
+				"StarAmy.Black_Greenhouse_With_View": {
+					"ID": "StarAmy.Black_Greenhouse_With_View",
+					"Texture": "StarAmy.Black_Greenhouse_With_View/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
 				"StarAmy.White_Greenhouse_One": {
 					"ID": "StarAmy.White_Greenhouse_One",
 					"Texture": "StarAmy.White_Greenhouse_One/WallpaperIcon",
@@ -56,6 +74,12 @@
 				"StarAmy.White_Greenhouse_Two": {
 					"ID": "StarAmy.White_Greenhouse_Two",
 					"Texture": "StarAmy.White_Greenhouse_Two/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.White_Greenhouse_With_View": {
+					"ID": "StarAmy.White_Greenhouse_With_View",
+					"Texture": "StarAmy.White_Greenhouse_With_View/WallpaperIcon",
 					"IsFlooring": false,
 					"Count": 1
 				},
@@ -141,6 +165,26 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "StarAmy.Inset_Shelving/Wallpaper",
+			"FromFile": "assets/Inset_Shelving.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Inset_Shelving/WallpaperIcon",
+			"FromFile": "assets/Inset_Shelving.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Inset_Shelving_Light/Wallpaper",
+			"FromFile": "assets/Inset_Shelving_Light.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Inset_Shelving_Light/WallpaperIcon",
+			"FromFile": "assets/Inset_Shelving_Light.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "StarAmy.Bottle_Wall/Wallpaper",
 			"FromFile": "assets/Bottle_Wall.png"
 		},
@@ -201,6 +245,16 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "StarAmy.Black_Greenhouse_With_View/Wallpaper",
+			"FromFile": "assets/Black_Greenhouse_With_View.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Black_Greenhouse_With_View/WallpaperIcon",
+			"FromFile": "assets/Black_Greenhouse_With_View.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "StarAmy.White_Greenhouse_One/Wallpaper",
 			"FromFile": "assets/White_Greenhouse_One.png"
 		},
@@ -218,6 +272,16 @@
 			"Action": "Load",
 			"Target": "StarAmy.White_Greenhouse_Two/WallpaperIcon",
 			"FromFile": "assets/White_Greenhouse_Two.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Greenhouse_With_View/Wallpaper",
+			"FromFile": "assets/White_Greenhouse_With_View.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Greenhouse_With_View/WallpaperIcon",
+			"FromFile": "assets/White_Greenhouse_With_View.png"
 		},
 		{
 			"Action": "Load",
@@ -364,6 +428,16 @@
 			"Action": "EditData",
 			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
 			"Entries": {
+				"StarAmy.Inset_Shelving": {
+					"id": "StarAmy.Inset_Shelving",
+					"texturePath": "StarAmy.Inset_Shelving/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Inset_Shelving_Light": {
+					"id": "StarAmy.Inset_Shelving_Light",
+					"texturePath": "StarAmy.Inset_Shelving_Light/Wallpaper",
+					"width": 1,
+				},
 				"StarAmy.Bottle_Wall": {
 					"id": "StarAmy.Bottle_Wall",
 					"texturePath": "StarAmy.Bottle_Wall/Wallpaper",
@@ -399,6 +473,11 @@
 					"texturePath": "StarAmy.Black_Greenhouse_Two/Wallpaper",
 					"width": 1,
 				},
+				"StarAmy.Black_Greenhouse_With_View": {
+					"id": "StarAmy.Black_Greenhouse_With_View",
+					"texturePath": "StarAmy.Black_Greenhouse_With_View/Wallpaper",
+					"width": 1,
+				},
 				"StarAmy.White_Greenhouse_One": {
 					"id": "StarAmy.White_Greenhouse_One",
 					"texturePath": "StarAmy.White_Greenhouse_One/Wallpaper",
@@ -407,6 +486,11 @@
 				"StarAmy.White_Greenhouse_Two": {
 					"id": "StarAmy.White_Greenhouse_Two",
 					"texturePath": "StarAmy.White_Greenhouse_Two/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.White_Greenhouse_With_View": {
+					"id": "StarAmy.White_Greenhouse_With_View",
+					"texturePath": "StarAmy.White_Greenhouse_With_View/Wallpaper",
 					"width": 1,
 				},
 				"StarAmy.Wooden_Panels": {
