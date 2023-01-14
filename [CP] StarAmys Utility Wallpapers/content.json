@@ -59,6 +59,12 @@
 					"IsFlooring": false,
 					"Count": 1
 				},
+				"StarAmy.Black_Greenhouse_View_One": {
+					"ID": "StarAmy.Black_Greenhouse_View_One",
+					"Texture": "StarAmy.Black_Greenhouse_View_One/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
 				"StarAmy.Black_Greenhouse_With_View": {
 					"ID": "StarAmy.Black_Greenhouse_With_View",
 					"Texture": "StarAmy.Black_Greenhouse_With_View/WallpaperIcon",
@@ -74,6 +80,12 @@
 				"StarAmy.White_Greenhouse_Two": {
 					"ID": "StarAmy.White_Greenhouse_Two",
 					"Texture": "StarAmy.White_Greenhouse_Two/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.White_Greenhouse_View_One": {
+					"ID": "StarAmy.White_Greenhouse_View_One",
+					"Texture": "StarAmy.White_Greenhouse_View_One/WallpaperIcon",
 					"IsFlooring": false,
 					"Count": 1
 				},
@@ -161,6 +173,30 @@
 					"IsFlooring": true,
 					"Count": 1
 				},
+					"StarAmy.Vertical_Bricks": {
+					"ID": "StarAmy.Vertical_Bricks",
+					"Texture": "StarAmy.Vertical_Bricks/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+					"StarAmy.Horizontal_Bricks": {
+					"ID": "StarAmy.Horizontal_Bricks",
+					"Texture": "StarAmy.Horizontal_Bricks/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+					"StarAmy.Light_Stone": {
+					"ID": "StarAmy.Light_Stone",
+					"Texture": "StarAmy.Light_Stone/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+					"StarAmy.Dark_Stone": {
+					"ID": "StarAmy.Dark_Stone",
+					"Texture": "StarAmy.Dark_Stone/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
 			},
 		},
 		{
@@ -245,6 +281,16 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "StarAmy.Black_Greenhouse_View_One/Wallpaper",
+			"FromFile": "assets/Black_Greenhouse_View_One.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Black_Greenhouse_View_One/WallpaperIcon",
+			"FromFile": "assets/Black_Greenhouse_View_One.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "StarAmy.Black_Greenhouse_With_View/Wallpaper",
 			"FromFile": "assets/Black_Greenhouse_With_View.png"
 		},
@@ -272,6 +318,16 @@
 			"Action": "Load",
 			"Target": "StarAmy.White_Greenhouse_Two/WallpaperIcon",
 			"FromFile": "assets/White_Greenhouse_Two.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Greenhouse_View_One/Wallpaper",
+			"FromFile": "assets/White_Greenhouse_View_One.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.White_Greenhouse_View_One/WallpaperIcon",
+			"FromFile": "assets/White_Greenhouse_View_One.png"
 		},
 		{
 			"Action": "Load",
@@ -425,6 +481,47 @@
 			"FromFile": "assets/Brown_Wood_Horizontal.png"
 		},
 		{
+			"Action": "Load",
+			"Target": "StarAmy.Vertical_Bricks/Wallpaper",
+			"FromFile": "assets/Vertical_Bricks.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Vertical_Bricks/WallpaperIcon",
+			"FromFile": "assets/Vertical_Bricks.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Horizontal_Bricks/Wallpaper",
+			"FromFile": "assets/Horizontal_Bricks.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Horizontal_Bricks/WallpaperIcon",
+			"FromFile": "assets/Horizontal_Bricks.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Light_Stone/Wallpaper",
+			"FromFile": "assets/Light_Stone.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Light_Stone/WallpaperIcon",
+			"FromFile": "assets/Light_Stone.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Dark_Stone/Wallpaper",
+			"FromFile": "assets/Dark_Stone.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Dark_Stone/WallpaperIcon",
+			"FromFile": "assets/Dark_Stone.png"
+		},
+
+		{
 			"Action": "EditData",
 			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
 			"Entries": {
@@ -473,6 +570,11 @@
 					"texturePath": "StarAmy.Black_Greenhouse_Two/Wallpaper",
 					"width": 1,
 				},
+				"StarAmy.Black_Greenhouse_View_One": {
+					"id": "StarAmy.Black_Greenhouse_View_One",
+					"texturePath": "StarAmy.Black_Greenhouse_View_One/Wallpaper",
+					"width": 1,
+				},
 				"StarAmy.Black_Greenhouse_With_View": {
 					"id": "StarAmy.Black_Greenhouse_With_View",
 					"texturePath": "StarAmy.Black_Greenhouse_With_View/Wallpaper",
@@ -486,6 +588,11 @@
 				"StarAmy.White_Greenhouse_Two": {
 					"id": "StarAmy.White_Greenhouse_Two",
 					"texturePath": "StarAmy.White_Greenhouse_Two/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.White_Greenhouse_View_One": {
+					"id": "StarAmy.White_Greenhouse_View_One",
+					"texturePath": "StarAmy.White_Greenhouse_View_One/Wallpaper",
 					"width": 1,
 				},
 				"StarAmy.White_Greenhouse_With_View": {
@@ -558,6 +665,27 @@
 					"texturePath": "StarAmy.Grey_Wood_Horizontal/Wallpaper",
 					"width": 1,
 				},
+				"StarAmy.Vertical_Bricks": {
+					"id": "StarAmy.Vertical_Bricks",
+					"texturePath": "StarAmy.Vertical_Bricks/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Horizontal_Bricks": {
+					"id": "StarAmy.Horizontal_Bricks",
+					"texturePath": "StarAmy.Horizontal_Bricks/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Light_Stone": {
+					"id": "StarAmy.Light_Stone",
+					"texturePath": "StarAmy.Light_Stone/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Dark_Stone": {
+					"id": "StarAmy.Dark_Stone",
+					"texturePath": "StarAmy.Dark_Stone/Wallpaper",
+					"width": 1,
+				},
+
 
 			}
 		},
